@@ -7,4 +7,4 @@ Deep Q-Network - [Playing Atari with Deep Reinforcement Learning(2013.12)](https
 <br>
 
 ### Code Environment
-[gym](https://gym.openai.com)
+[OpenAI-gym](https://www.gymlibrary.dev/)
