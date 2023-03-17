@@ -8,3 +8,12 @@ Deep Q-Network - [Playing Atari with Deep Reinforcement Learning(2013.12)](https
 
 ### Code Environment
 [OpenAI-gym](https://www.gymlibrary.dev/)
+
+
+
+
+### Mac setting 
+```shell
+brew install cmake zlib
+pip install 'gym[atari]'
+```
