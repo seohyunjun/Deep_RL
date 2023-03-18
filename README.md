@@ -9,7 +9,8 @@ Deep Q-Network - [Playing Atari with Deep Reinforcement Learning(2013.12)](https
 ### Code Environment
 [OpenAI-gym](https://www.gymlibrary.dev/)
 
-
+### Code
+[CarPole-V1](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 
 
 ### Mac setting 
