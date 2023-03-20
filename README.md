@@ -18,3 +18,6 @@ Deep Q-Network - [Playing Atari with Deep Reinforcement Learning(2013.12)](https
 brew install cmake zlib
 pip install 'gym[atari]'
 ```
+
+<br>
+[pip install 'gym[all]' error](https://www.pygame.org/wiki/MacCompile)
