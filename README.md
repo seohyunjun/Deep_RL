@@ -26,7 +26,7 @@ pip install 'gym[all]'
 <br>
 
 ## DQN(Deep Q-Network) 
---
+
 <img src="https://github.com/seohyunjun/Deep_RL/blob/main/1_DQN/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B31.jpeg" height=80% width=80% >
 <img src="https://github.com/seohyunjun/Deep_RL/blob/main/1_DQN/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B32.jpeg" height=80% width=80% >
 <img src="https://github.com/seohyunjun/Deep_RL/blob/main/1_DQN/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B33.jpeg" height=80% width=80% >
@@ -40,5 +40,5 @@ pip install 'gym[all]'
 <img src="https://github.com/seohyunjun/Deep_RL/blob/main/1_DQN/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B310.jpeg" height=80% width=80% >
 <img src="https://github.com/seohyunjun/Deep_RL/blob/main/1_DQN/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B311.jpeg" height=80% width=80% >
 <img src="https://github.com/seohyunjun/Deep_RL/blob/main/1_DQN/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B312.jpeg" height=80% width=80% >
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/seohyunjun/Deep_RL/blob/main/data/CartPole_21.gif)" width="40" height="40" />
+<img src="https://github.com/seohyunjun/Deep_RL/blob/main/data/CartPole_21.gif" width="50" height="50" >
 <img src="https://github.com/seohyunjun/Deep_RL/blob/main/1_DQN/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B313.jpg)" height=80% width=80% >
