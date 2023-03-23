@@ -15,7 +15,13 @@ REINFORCE, A3C - [Asynchronous Methods for Deep Reinforcement Learning(2016.1.16
 ### Mac setting 
 ```shell
 brew install cmake zlib
-pip install 'gym[all]'
+pip install 'gymnasium[all]'
+
+pip install autorom # 0.42 버전 설치 (0.55 버전 mac m1 subprocess error)
+AutoROM --accept-license (rom license Y 후 ale_py rom으로 파일 이동)
+# mv /Users/[user_id]/[anaconda/conda/miniforge]/envs/[env_name]/lib/python3.8/site-pakage/AutoRom/rom /Users/[user_id]/[anaconda/conda/miniforge]/envs/[env_name]/lib/python3.8/site-pakage/ale_py/rom/
+
+
 ```
 
 <br>
