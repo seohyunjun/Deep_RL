@@ -25,9 +25,11 @@ AutoROM --accept-license (rom license Y 후 ale_py rom으로 파일 이동)
 ```
 
 <br>
-[pip install 'gym[all]' error](https://www.pygame.org/wiki/MacCompile)
+[pip install gym\[all\] error](https://www.pygame.org/wiki/MacCompile)
+
 [딥러닝 분산 학습 관련 연구, Deep learning travels(류성원)](https://lyusungwon.github.io/assets/publications/DistributedDeepLearningTrainingOverview.pdf)
-[나만의 GYM ](https://www.youtube.com/watch?v=chVLag1NIAQ)
+
+[나만의 GYM 환경 만들기](https://www.youtube.com/watch?v=chVLag1NIAQ)
 <br>
 
 
